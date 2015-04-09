@@ -9,9 +9,10 @@ type: challenges
 
 First - Go back and complete today's ToDo. Then try any of the challenges below.
 
-+ Check out the Ruby Labs section of Ironboard.
++ Check out the Ruby Labs section of Learn.
 
 + Start exploring the ActiveRecord `.find_by` method.
+
   * Use this method to display tweets in your Fwitter application from just one certain user.
 
 + Read up on [ActiveRecord validations](http://guides.rubyonrails.org/active_record_validations.html) and set up validations for the length of tweets and for the uniqueness of a user’s email address.
@@ -24,5 +25,5 @@ First - Go back and complete today's ToDo. Then try any of the challenges below.
 
   * Hint 3: ActiveRecord has a built in method for deleting entries in a database. Google it.
 
-+ Dying to learn more about Rake tasks? Check out the All About That Rake lab on Ironboard.
++ Dying to learn more about Rake tasks? Check out the All About That Rake lab on Learn.
 
