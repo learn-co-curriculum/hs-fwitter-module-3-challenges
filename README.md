@@ -5,7 +5,7 @@ level: 2
 type: challenges
 ---
 
-## Week 3 Challenges!
+## Module 3 Challenges!
 
 First - Go back and complete today's ToDo. Then try any of the challenges below.
 
