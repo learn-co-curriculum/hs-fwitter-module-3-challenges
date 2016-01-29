@@ -23,4 +23,4 @@ First - Go back and complete today's ToDo. Then try any of the challenges below.
 + Dying to learn more about Rake tasks? Check out the All About That Rake lab on Learn.
 
 
-<a href='https://learn.co/lessons/hs-fwitter-module-3-challenges' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-fwitter-module-3-challenges' title='Week 3 Challenges!'>Week 3 Challenges!</a> on Learn.co and start learning to code for free.</p>
